@@ -9,7 +9,7 @@ const Container = styled.div`
 const LoginView = () => (
     <Container>
         <div>
-            <a href="/MainView">로고<br />
+            <a href="/">로고</a><br />
             <input type="text" placeholder="아이디 입력" /><br />
             <input type="password" placeholder="비밀번호 입력" /><br />
             <input type="button" value="로그인" /><br />
