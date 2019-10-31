@@ -8,7 +8,7 @@ const Container = styled.div`
 
 const MainView = () => (
   <Container>
-        This is a main page!!!<br />
+        메인 페이지
   </Container>
 );
 
