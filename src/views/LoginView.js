@@ -13,6 +13,7 @@ const LoginView = () => (
             <input type="text" placeholder="아이디 입력" /><br />
             <input type="password" placeholder="비밀번호 입력" /><br />
             <input type="button" value="로그인" /><br />
+            hello
             <a href="#">아이디 찾기</a> <a href="#">비밀번호 찾기</a> <a href="/MemberRegisterView">회원가입</a>
         </div>
     </Container>
