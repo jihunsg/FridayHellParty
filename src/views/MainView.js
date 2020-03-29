@@ -8,7 +8,7 @@ const Container = styled.div`
 
 const MainView = () => (
   <Container>
-        메인 페이지123
+        메인 페이지1234
   </Container>
 );
 
